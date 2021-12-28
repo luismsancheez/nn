@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T16:34:43.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="JLz0_oXIzp8K3gM6B7Cm" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-28T16:34:57.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="leFbfIM1M7bF_v98h5ER" version="16.1.0" type="github" pages="3">
   <diagram id="Ufs1FHZLUyEuwx-ZYCXi" name="Mercado">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,14 @@
       <root>
         <mxCell id="-iLR9Cn4cDxuSfhCenWZ-0" />
         <mxCell id="-iLR9Cn4cDxuSfhCenWZ-1" parent="-iLR9Cn4cDxuSfhCenWZ-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="z5dsDsDl51X0UFyC48od" name="Cocinar Arroz">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IIi0X71-X4Q-jd7GH1Es-0" />
+        <mxCell id="IIi0X71-X4Q-jd7GH1Es-1" parent="IIi0X71-X4Q-jd7GH1Es-0" />
       </root>
     </mxGraphModel>
   </diagram>
